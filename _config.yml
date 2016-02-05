@@ -1,0 +1,14 @@
+layout_spectrum: 0.2401434
+typography_spectrum: 0.9677419
+color:
+  saturation: 0.5250896
+  lightness: 0.9713262
+  brandStrength: 0.5985663
+  rhythmicContrast: 0.3124795
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Pedestal
